@@ -21,7 +21,7 @@
             <items/>
             <discovery_rules>
                 <discovery_rule>
-                    <name>Discvery Storage Enclosures</name>
+                    <name>Discovery Storage Enclosures</name>
                     <type>7</type>
                     <snmp_community/>
                     <snmp_oid/>
@@ -275,7 +275,7 @@
                     <host_prototypes/>
                 </discovery_rule>
                 <discovery_rule>
-                    <name>Discvery Physical Disks</name>
+                    <name>Discovery Physical Disks</name>
                     <type>7</type>
                     <snmp_community/>
                     <snmp_oid/>
@@ -969,7 +969,7 @@
                     <host_prototypes/>
                 </discovery_rule>
                 <discovery_rule>
-                    <name>Discvery Storage Pool</name>
+                    <name>Discovery Storage Pool</name>
                     <type>7</type>
                     <snmp_community/>
                     <snmp_oid/>
@@ -1223,7 +1223,7 @@
                     <host_prototypes/>
                 </discovery_rule>
                 <discovery_rule>
-                    <name>Discvery Virtual Disks</name>
+                    <name>Discovery Virtual Disks</name>
                     <type>7</type>
                     <snmp_community/>
                     <snmp_oid/>
